@@ -1,6 +1,6 @@
  ﻿# portfolio.
   
-<img src='https://github.com/ebrahim-mamdoh/Mealify./assets/138860098/abdc08c8-595f-4a44-9667-dc19a7091590'>
+<img src='https://github.com/user-attachments/assets/126d57e3-da12-4d21-bcae-ff8c305b7ab7'>
 
 
-[Visit site](https://github.com/user-attachments/assets/126d57e3-da12-4d21-bcae-ff8c305b7ab7)
+[Visit site](https://ebrahim-mamdoh.github.io/portfolio./)
